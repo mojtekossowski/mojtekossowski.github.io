@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp ../myresume/resume.html ./index.html
+cp ../myresume/out/resume.html ./index.html
 
 git add index.html
 git commit -m "Resume update"
